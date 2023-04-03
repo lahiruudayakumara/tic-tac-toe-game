@@ -3,6 +3,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 0 auto;
   background-color: #efefef;
+  font-family: "Fredoka", sans-serif;
 }
